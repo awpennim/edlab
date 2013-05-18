@@ -1,9 +1,21 @@
+html {
+  background-color: #C0C0C0;
+}
+
 .body {
   font-family: TREBUCHET MS;
+  margin-left: 10%;
+	margin-right: 10%;
+	background-color: white;
 }
 
 h1, h2 {
   text-align: center;  
+}
+
+.main {
+  padding-left: 4em;
+	padding-right: 4em;
 }
 
 .main .contact_info_header {
@@ -18,4 +30,10 @@ h1, h2 {
 
 .main .contact_info_data {
   display: inline-block;
+}
+
+.footer {
+  padding-top: 2em;
+	padding-bottom: 2em;
+	text-align: center;
 }
