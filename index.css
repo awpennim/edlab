@@ -1,0 +1,21 @@
+.body {
+  font-family: TREBUCHET MS;
+}
+
+h1, h2 {
+  text-align: center;  
+}
+
+.main .contact_info_header {
+  font-size: 20;
+	padding-bottom: .5em;
+}
+
+.main .contact_info_description {
+  display: inline-block;
+	min-width: 7em;
+}
+
+.main .contact_info_data {
+  display: inline-block;
+}
