@@ -18,7 +18,7 @@ h1, h2 {
 	padding-right: 4em;
 }
 
-.main .contact_info_header {
+.main .header {
   font-size: 20;
 	padding-bottom: .5em;
 }
@@ -36,4 +36,8 @@ h1, h2 {
   padding-top: 2em;
 	padding-bottom: 2em;
 	text-align: center;
+}
+
+.class_list {
+	padding-left: 4em;	
 }
